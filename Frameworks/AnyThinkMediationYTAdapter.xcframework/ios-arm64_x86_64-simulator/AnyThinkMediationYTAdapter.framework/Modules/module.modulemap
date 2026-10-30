@@ -1,0 +1,6 @@
+framework module AnyThinkMediationYTAdapter {
+  umbrella header "AnyThinkMediationYTAdapter.h"
+  export *
+
+  module * { export * }
+}
