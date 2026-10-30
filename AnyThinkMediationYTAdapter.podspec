@@ -45,7 +45,7 @@ DESC
   spec.frameworks = "UIKit", "Foundation"
 
   # 4. 第三方依赖（如有，示例）
-  spec.dependency "AnyThinkiOS", "~> 6.5.43"
+#  spec.dependency "AnyThinkiOS", "~> 6.5.43"
 
   # 二进制框架路径
   spec.vendored_frameworks = "Frameworks/AnyThinkMediationYTAdapter.xcframework"
