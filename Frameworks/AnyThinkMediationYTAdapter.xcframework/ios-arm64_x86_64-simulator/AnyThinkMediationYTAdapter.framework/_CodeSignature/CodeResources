@@ -4,18 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/YTAdSDK.framework/Info.plist</key>
-		<data>
-		kHLIU3p5DFFK/sUyFFa+nQjhtMY=
-		</data>
-		<key>Frameworks/YTAdSDK.framework/YTAdSDK</key>
-		<data>
-		BEVut1JAzQpR31R/nBDKU2vy918=
-		</data>
-		<key>Frameworks/YTAdSDK.framework/_CodeSignature/CodeResources</key>
-		<data>
-		JAcqPszabon1aC9Sot5YjLxx7Es=
-		</data>
 		<key>Headers/AnyThinkMediationYTAdapter.h</key>
 		<data>
 		RFmPX1MbN8pTqsTIy/oU9BkY4B0=
@@ -31,27 +19,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/YTAdSDK.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			GtzrK6OsZWBGnV2kwHp3Ljt39l67artgN67fJRZvpos=
-			</data>
-		</dict>
-		<key>Frameworks/YTAdSDK.framework/YTAdSDK</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			pliNDJldHkdybkIRsCkM7CMdAr2n7+HYm0d8xOBNReQ=
-			</data>
-		</dict>
-		<key>Frameworks/YTAdSDK.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			mM4M6wS/4j7gYZSu1IaGYsuoEQ0GT+LKBor6qUHHRog=
-			</data>
-		</dict>
 		<key>Headers/AnyThinkMediationYTAdapter.h</key>
 		<dict>
 			<key>hash2</key>
