@@ -53,12 +53,12 @@ DESC
 
   # 资源打包成独立 Bundle（关键，防止资源冲突）
 spec.resource_bundles = {
-  "AnyThinkMediationYTAdapterRes" => [
-    "Resources/**/*.xcassets",
-    "Resources/**/*.xib",
-    "Resources/**/*.png",
-    "Resources/**/*.jpg"
-  ]
+  #"AnyThinkMediationYTAdapterRes" => [
+   # "Resources/**/*.xcassets",
+    #"Resources/**/*.xib",
+    #"Resources/**/*.png",
+    #"Resources/**/*.jpg"
+  #]
 }
 spec.pod_target_xcconfig = {
   "EXCLUDED_ARCHS[sdk=iphonesimulator*]" => "arm64",
